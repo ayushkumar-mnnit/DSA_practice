@@ -1,0 +1,20 @@
+
+1. Multicursor- alt+click
+
+2. copy line- shift+alt+arrow key
+
+3. boiler code- go to user snippets and uncomment example completely->write "boiler" in prefix ,
+inside body write
+"#include<stdio.h>",
+"int main(){",
+"",
+"",
+"return 0;",
+"}",
+
+4. path not set, problem- take cursor on #include<stdio.h> , it will show option of 'Quick fix problem' ,click it then it
+will take to a setting page there you select "C:/MinGW/bin/gcc.exe".
+
+5. open in terminal- settings-> search run in terminal-> checkmark 'whether to run integrated terminal'
+
+6. Important extensions- C/C++ (intellisense), code runner, live server
