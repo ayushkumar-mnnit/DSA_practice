@@ -1,0 +1,19 @@
+TO THE CODERS:
+--------------------
+
+To start with DSA in C++, one must be familiar with "STL" , time & space complexity and ya ! basic syntax of writing code in C++ 
+
+i.e. i/p and o/p , loops , function & function call (call by value and reference) , operators , switch case & if-else statements etc.
+and these can be learnt in any language easily becoz these concepts remain more less same.
+
+if you don't know C++ very well then don't stop yourself from learning DSA becoz you don't need to master any language before starting DSA.
+you just need to be that much capable that you can write code with correct syntax.
+
+I too never learnt C++ as such , i learnt C as my first programing language then learnt basic syntax of C++ and then found that rest all concepts are same as C only, hence i started DSA in C++
+
+
+------------------------------------------------------------------------------------------
+
+additional tip :)
+
+have a good logic building habit before starting DSA , for that solve 15-20 standard pattern problems
